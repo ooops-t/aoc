@@ -1,0 +1,9 @@
+#+title: Advent of Code
+#+author: Ooops_t
+
+Advent of Code [[https://adventofcode.com][Homepage]].
+
+* Reference
+
+- [[https://github.com/bmusuko/aoc2015][github: bmusuko/aoc2015]]
+- [[https://github.com/tomp/AOC-2015][github: tomp/AOC-2015]]  
